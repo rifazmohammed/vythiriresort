@@ -1,0 +1,194 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Vythiri Resort - Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_AFEE7883_B0C7_EDE0_41D4_998414045486.label = Vythiri
+album_AFEE7883_B0C7_EDE0_41D4_998414045486_1.label = Vythiri Resort Aerial View 1
+panorama_A4202C8D_AFA4_E7CF_41CC_97BA0D7B98F8.label = Washroom - Vythiri Haven
+panorama_A62A5370_AC7B_578F_41E2_5E9F1A1F41D3.label = To hanging bridge
+panorama_A62ADFB6_AC78_CEF0_416B_E600B03AE820.label = Entrance
+panorama_A63053DE_AC78_D6B3_41E0_188259FD3CEA.label = Balcony  - Treehouse II
+panorama_A6309B31_AC78_F7F0_41AC_D00BBC0A460A.label = Interior - Treehouse I
+panorama_A630A1DE_AC7F_52B3_41E4_553AF21F589F.label = Vythiri Haven
+panorama_A630A725_AC79_7F91_41E4_3081597CC8BD.label = Jacuzzi - Treehouse II
+panorama_A630B31F_AC7F_77B1_41BD_6495F5E3B488.label = Vythiri Haven
+panorama_A630B380_AC78_F68F_41E3_AC35B34BDEEB.label = Stream near Treehouse
+panorama_A630B88F_AC79_5291_41D1_7AF6A6E016F4.label = Interior - Treehouse II
+panorama_A630B9E8_AC78_D29F_41DD_4B70983510B0.label = Interior - Treehouse I
+panorama_A630BDB4_AC7F_32F7_41DB_84AA801B8BF0.label = Vythiri Haven
+panorama_A630E1E4_AC7F_5297_41C0_9D382AE26FBC.label = Vythiri Haven
+panorama_A630E511_AC79_53B1_41DA_7D555E700442.label = Interior - Treehouse II
+panorama_A630EBF4_AC78_D677_41D2_4263E0FF0DFA.label = Balcony - Vythiri Haven
+panorama_A630F005_AC7F_3191_41D5_17B1BB54ABBF.label = Vythiri Haven
+panorama_A630F42E_AC79_3193_41D0_2B38B015C4CB.label = Balcony  - Treehouse II
+panorama_A6314B79_AC79_3671_41D5_6926811101F4.label = Washroom - Treehouse II
+panorama_A631800E_AC79_F193_41DA_D97D66FB2491.label = Balcony - Honeymoon Villa
+panorama_A6318DAC_AC79_D297_41E4_08B6F2D291D2.label = Jacuzzi - Honeymoon Villa
+panorama_A63196E4_AC79_7E97_41E4_40A9908EF7C9.label = Wahroom - Treehouse I
+panorama_A631989F_AC79_52B1_41CD_62491FF6EBEE.label = Interior - Treehouse I
+panorama_A631A42B_AC79_5191_41E0_2577E00EB61D.label = to Honeymoon Villa
+panorama_A631A494_AC79_32B7_41E1_38AEED3F234B.label = Honeymoon Villa
+panorama_A631C89E_AC79_32B3_41D5_35FF360144BD.label = Balcony - Treehouse I
+panorama_A631DF7B_AC79_CE71_41D9_B388C521660B.label = Honeymoon Villa- Plunge Pool 
+panorama_A631E25F_AC79_D1B1_41CF_5E25F8B2C2F0.label = Honeymoon Villa-Bedroom
+panorama_A6350F09_AC79_4F91_41D4_308F4AE4BD6C.label = Washroom - Pool villa
+panorama_A6352217_AC78_F1B1_41D1_982D841C626A.label = Reception
+panorama_A635237A_AC79_D673_41B0_505F58B9D3CF.label = Balcony - Honeymoon Pool Villa
+panorama_A6352968_AC79_539F_41C2_51B8BC3C4407.label = Child room - Pool villa
+panorama_A63537E6_AC79_5E93_41E1_B292479EDC2F.label = Poolside - Honeymoon Pool Villa
+panorama_A6354582_AC79_3293_41E5_29CA6C804E41.label = Poolside - Honeymoon Pool Villa
+panorama_A635708B_AC78_D291_41E4_EE8E66D3F66C.label = To reception
+panorama_A63574E0_AC79_D28F_41D3_00A3B2D88A06.label = Honeymoon Pool Villa
+panorama_A63591BA_AC79_32F3_41D8_DD0714BF5F52.label = Honeymoon Pool Villa
+panorama_A635ACF2_AC79_5273_41E2_6D6E528CDF3F.label = Washroom - Honeymoon Pool Villa
+panorama_A635B370_AC78_D78F_41C4_CAE4A48ED6A8.label = Lobby
+panorama_A635EF36_AC79_4FF3_41E5_8CD21D6A92A0.label = Honeymoon Pool Villa
+panorama_A6369516_AC79_F3B3_41D6_3A752995A206.label = Honeymoon Pool Villa
+panorama_A636A736_AC79_3FF3_41C4_7D726D04FCB5.label = Balcony - Pool villa
+panorama_A636C15D_AC79_53B1_41C5_87369D7C208B.label = Pool villa
+panorama_A636D425_AC79_3191_41D0_ADC823AF7E61.label = Pool villa
+panorama_A636EC31_AC79_71F1_41E1_F4AA288A8318.label = Pool villa
+panorama_A6370441_AC7B_F191_41D4_1D33FCBFF609.label = Iron bridge
+panorama_A63706D9_AC7B_7EB1_41D0_40ABB6D98D4D.label = to Treehouse
+panorama_A63715A7_AC7B_3291_41E0_8892CEF5FC59.label = Streamside
+panorama_A63727A3_AC78_FE91_41E0_9FE4069CCBB9.label = Pool villa
+panorama_A63733D4_AC7B_36B7_41B3_79AC0568DA80.label = Hanging bridge
+panorama_A6373488_AC7B_D29F_41D1_793ACF189ECA.label = Turf
+panorama_A6374DF7_AC7F_3271_41D2_9772D47CEF0F.label = Facade
+panorama_A63757D1_AC78_DEB1_41AA_15CB543BE65D.label = to Pool Villa
+panorama_A63763AD_AC7F_3691_41E3_E34B84962C74.label = Indoor Game Area
+panorama_A6376570_AC78_D38F_41E4_B932A04CBB7B.label = Poolside - Pool villa
+panorama_A637745F_AC7B_D1B1_41DB_F81A4EA19126.label = Swimming pool
+panorama_A6377BDB_AC7F_76B1_41E3_6513712CDC63.label = "Thinna" - Restaurant
+panorama_A637928F_AC7F_D691_41D2_93C0817D3812.label = to Restaurant
+panorama_A6379D11_AC7F_53B1_41E2_F40331CE05FD.label = "Thinna" - Restaurant
+panorama_A637B6B0_AC7F_DE8F_41C1_B0CFE89ACE0C.label = "Thinna" - Restaurant
+panorama_A637C4B0_AC7F_F28F_41E3_3FA41EBE39DD.label = "Thinna" - Restaurant
+panorama_A637C6B3_AC7B_5EF1_41D3_0F2B17062880.label = Treehouse I
+panorama_A637C80B_AC7B_5191_41B9_30D66B7FE697.label = Uravu boutique & Outdoor game area
+panorama_A637E8D2_AC7F_32B3_41C1_720B404D7E44.label = "Thinna" - Restaurant
+panorama_A637EA80_AC7F_568F_41E2_568587B2E518.label = "Thinna" - Restaurant
+panorama_A744937B_AC7B_7671_41A6_35F941136950.label = Candle lit Restaurant
+photo_AC010E77_B0C8_6520_41CC_EAE1C200F250.label = Honeymoon Pool Villa
+photo_AC010E77_B0C8_6520_41CC_EAE1C200F250.label = Honeymoon Pool Villa
+photo_AC011270_B0C8_7D20_41BB_B81E82A93EC8.label = Honeymoon Pool Villa Interior
+photo_AC011270_B0C8_7D20_41BB_B81E82A93EC8.label = Honeymoon Pool Villa Interior
+photo_AC01183D_B0C8_6D20_41DF_70F150C64DAC.label = Honeymoon Pool Villa Poolside 1
+photo_AC01183D_B0C8_6D20_41DF_70F150C64DAC.label = Honeymoon Pool Villa Poolside 1
+photo_AC08471D_B0C8_24E0_41B7_8A19FE46D80F.label = Pool Villa- Child Room
+photo_AC08471D_B0C8_24E0_41B7_8A19FE46D80F.label = Pool Villa- Child Room
+photo_AC0C08F7_B0C8_6D20_4159_4F5F3B29217B.label = Tree House Balcony
+photo_AC0C08F7_B0C8_6D20_4159_4F5F3B29217B.label = Tree House Balcony
+photo_AC0C45B2_B0C8_2720_41E0_75887A3932F6.label = Vythiri Haven Interior
+photo_AC0C45B2_B0C8_2720_41E0_75887A3932F6.label = Vythiri Haven Interior
+photo_AC0D3464_B0C8_E520_41E2_03453EE3414E.label = Honeymoon Villa-Bedroom
+photo_AC0D3464_B0C8_E520_41E2_03453EE3414E.label = Honeymoon Villa-Bedroom
+photo_AC0D9AFB_B0C8_2D20_41E0_A7F0F767DAA9.label = Tree house 
+photo_AC0D9AFB_B0C8_2D20_41E0_A7F0F767DAA9.label = Tree house 
+photo_AD54E2C6_B0C8_5D60_41DC_FD077BB1B639.label = Pool Side View
+photo_AD54E2C6_B0C8_5D60_41DC_FD077BB1B639.label = Pool Side View
+photo_AD70E4A8_B0C8_2520_41B7_826EE8D494CB.label = Luxury Tree House Interior
+photo_AD70E4A8_B0C8_2520_41B7_826EE8D494CB.label = Luxury Tree House Interior
+photo_AD7AE2B2_B0C8_3D20_41C5_4AB1CD528519.label = Vythiri Haven Exterior
+photo_AD7AE2B2_B0C8_3D20_41C5_4AB1CD528519.label = Vythiri Haven Exterior
+photo_AE6039DA_B0C8_2F60_41D1_5D292677018F.label = Honeymoon Villa- Living Area
+photo_AE6039DA_B0C8_2F60_41D1_5D292677018F.label = Honeymoon Villa- Living Area
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_8EE0A95A_AF9F_6155_41C4_D978CE29D885.toolTip = Pool Villa
+HotspotPanoramaOverlayArea_900FD717_B064_E2DB_41E4_EB4669C5619A.toolTip = Honeymoon Pool Villa
+HotspotPanoramaOverlayArea_90426ADC_B06F_234D_41B5_3DF55E6B4CA6.toolTip = Vythiri Haven
+HotspotPanoramaOverlayArea_926F6289_B063_23B7_41D2_D4DE799D3D4F.toolTip = Honeymoon Pool Villa
+HotspotPanoramaOverlayArea_92C4CD62_B07D_2175_41E3_B3C37D790684.toolTip = Washroom
+HotspotPanoramaOverlayArea_93F1609F_B063_3FCB_41E0_FED22058BFC0.toolTip = Poolside
+HotspotPanoramaOverlayArea_93F30BFE_B065_214D_41D8_005074F81FAA.toolTip = Balcony
+HotspotPanoramaOverlayArea_953C2D3B_B063_26CB_41D2_A0A71100AF42.toolTip = Bedroom
+HotspotPanoramaOverlayArea_957991AD_B065_21CF_41CA_783E4313C1AF.toolTip = Vythiri Haven
+HotspotPanoramaOverlayArea_96496A15_B06D_22DF_41D7_21B6E7FF2A6D.toolTip = Jacuzzi
+HotspotPanoramaOverlayArea_973B56AF_B065_23CB_41DE_7B9EBC3E6539.toolTip = Bedroom
+HotspotPanoramaOverlayArea_982B1C94_B065_27DD_41AD_5067334D85CE.toolTip = Jacuzzi / Living Room
+HotspotPanoramaOverlayArea_A00876C2_AFA5_63B5_41C1_8F60AE1117FD.toolTip = Reception
+HotspotPanoramaOverlayArea_A03D210C_B058_3CE0_41DF_1A6BFEB3EB2E.toolTip = Poolside
+HotspotPanoramaOverlayArea_A07B236B_AFA7_614B_41CB_21EBAE4070FF.toolTip = Reception
+HotspotPanoramaOverlayArea_A0BBEF62_B058_6320_41DA_EE03E3A98443.toolTip = Bedroom
+HotspotPanoramaOverlayArea_A1265698_AFA3_63D5_41CE_A52E949B25EA.toolTip = Reception
+HotspotPanoramaOverlayArea_A17B56C4_B048_6560_41CA_D8595B42510D.toolTip = Balcony
+HotspotPanoramaOverlayArea_A1F972E6_B048_5D20_41D9_B62C27766D4C.toolTip = Poolside
+HotspotPanoramaOverlayArea_A200386A_B048_6D20_41CD_544C19406212.toolTip = Swimming Pool
+HotspotPanoramaOverlayArea_A42D2511_B058_24E0_41DD_B431EC9BF2D3.toolTip = Treehouse I
+HotspotPanoramaOverlayArea_A4F8A249_B058_7D60_41E0_80822D6E6488.toolTip = Restaurant
+HotspotPanoramaOverlayArea_A5025B2F_B048_6320_41C8_AF7441CB915F.toolTip = Bedroom
+HotspotPanoramaOverlayArea_A5319E86_B048_65E0_41CB_6DCD62A688C1.toolTip = Balcony
+HotspotPanoramaOverlayArea_A5B882D0_B058_5D60_41E4_EB7B842DC9E7.toolTip = Treehouse I
+HotspotPanoramaOverlayArea_A6F466B7_B22E_C641_41CA_5E47A359A70F.toolTip = Lobby
+HotspotPanoramaOverlayArea_A90CF62E_B038_2520_41DD_5195C3E84759.toolTip = Treehouse I
+HotspotPanoramaOverlayArea_AA1E130F_B03B_DCE0_41C3_4E4C42651347.toolTip = Resort Entrance
+HotspotPanoramaOverlayArea_AAABCCE2_B03F_E520_41DA_B25BDDFA90BC.toolTip = Treehouse I
+HotspotPanoramaOverlayArea_AB67C78F_B0F8_23E0_41CE_CE467A0D6B4B.toolTip = Jacuzzi
+HotspotPanoramaOverlayArea_AC989D41_B0F8_2760_41D1_79F65EB4CE88.toolTip = Streamside
+HotspotPanoramaOverlayArea_AD0E6ABE_B0F8_6D20_41C1_2CB8C3130ACF.toolTip = Treehouse II
+HotspotPanoramaOverlayArea_B0AF9395_AFA3_21DF_4160_66AA17CD4133.toolTip = Honeymoon Pool Villa
+HotspotPanoramaOverlayArea_B2FA57BB_AFA5_61CB_41D3_339D861AF24E.toolTip = Child Room
+HotspotPanoramaOverlayArea_B465BC91_AFBD_27D7_41E0_25FA8247E2C6.toolTip = Washroom
+HotspotPanoramaOverlayArea_B5CB0823_AFA3_6EFB_41AF_8E56BA8F0976.toolTip = Poolside
+HotspotPanoramaOverlayArea_B7059E03_AFAD_E2BB_41E4_C23F71F18757.toolTip = Pool Villa
+HotspotPanoramaOverlayArea_B844B25E_AFE3_634D_41AB_0FC390707CD0.toolTip = Lobby
+HotspotPanoramaOverlayArea_B8B15575_AF9F_E15F_41E4_89BA44C0A5E4.toolTip = Outdoor Games
+HotspotPanoramaOverlayArea_B8CC1671_AF9D_6357_41DB_4D4ED520596A.toolTip = Turf
+HotspotPanoramaOverlayArea_B9ABE2BD_AFE5_23CF_41C8_CD2E5422DD67.toolTip = Pool Villa
+HotspotPanoramaOverlayArea_B9CE5179_AFE5_E157_41DA_089E93E13D9C.toolTip = Indoor Games
+HotspotPanoramaOverlayArea_BAB62D42_AFEF_26B5_41E1_A39F7FBA2D33.toolTip = Candle lit dining
+HotspotPanoramaOverlayArea_BCA8A64F_AFE5_634B_41E1_485A1B0DA88D.toolTip = Exit
+HotspotPanoramaOverlayArea_BD2420D0_AFE3_1F55_418E_582825894F7B.toolTip = Hanging Bridge
+HotspotPanoramaOverlayArea_BD5CDABF_AFE4_E3CB_41D1_D2D874EC4C37.toolTip = Restaurant
+HotspotPanoramaOverlayArea_BD5E9941_B0CF_B653_41D3_5559388C11B6.toolTip = Turf
+HotspotPanoramaOverlayArea_BD6E5730_AFE5_E2D5_41D9_9293D172D7ED.toolTip = Reception
+HotspotPanoramaOverlayArea_BD78CFC2_B038_E360_41C5_7EB6FADCFCA2.toolTip = Washroom
+HotspotPanoramaOverlayArea_BD8AE741_B0C9_DA53_41DC_6E5362279E5E.toolTip = Irin Bridge
+HotspotPanoramaOverlayArea_BD923750_AFE7_6155_41D8_B28DF7E43387.toolTip = Reception
+HotspotPanoramaOverlayArea_BDB99FC8_B0C9_CA51_4195_B7AADC22C090.toolTip = Streamside
+HotspotPanoramaOverlayArea_BDD0BD2D_AF9D_26CF_41A4_DBF8E7340BB4.toolTip = Hanging Bridge
+HotspotPanoramaOverlayArea_BDFB214F_AFED_214B_41E0_FBA91B32812C.toolTip = Restaurant
+HotspotPanoramaOverlayArea_BEA2FC36_AFE5_26DD_41DA_C680E7E5AB5D.toolTip = Hanging Bridge
+HotspotPanoramaOverlayArea_BEB45A5F_AFA4_E34B_41BA_753167021EA5.toolTip = Entrance
+HotspotPanoramaOverlayArea_BEB8DD2A_B03B_E720_41E1_854BD638F993.toolTip = Balcony
+HotspotPanoramaOverlayArea_BEE3EFEB_AF9D_214B_41D9_41CA676FE134.toolTip = Lobby
+HotspotPanoramaOverlayArea_BF1B5A45_AFA3_E2BF_41D8_14C01E34EFBB.toolTip = Reception
+HotspotPanoramaOverlayArea_BF9B16BE_B0CB_DA31_41C3_755EF45E7721.toolTip = Hanging Bridge
+HotspotPanoramaOverlayArea_BFDFFF02_AF9D_22B5_41C2_88B369510E8C.toolTip = Outdoor Game
+HotspotPanoramaOverlayArea_BFE5FB97_AFAD_21DB_41E1_9DEE0854DA8F.toolTip = Lobby
+HotspotPanoramaOverlayArea_BFEF1456_B058_6560_41E1_1D1DA1ACDA82.toolTip = Honeymoon Villa
+HotspotPanoramaOverlayArea_C88B03AE_C664_FB61_41E1_840491FAC9D7.toolTip = Honeymoon Villa
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.vythiriresort.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.vythiriresort.com
